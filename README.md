@@ -60,7 +60,6 @@ Users should be able to:
 - Practice accessible tables (`th` with `scope="row"`)
 - Refine responsive breakpoints and card max-widths by eye against designs
 - Explore shared layout classes to reduce repeated padding rules
-- Deploy with GitHub Pages, Netlify, or Vercel and submit the live URL
 
 ### Useful resources
 
@@ -78,4 +77,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@jorlabor](https://www.frontendmentor.io/profile/jorlabor)
-- GitHub - [Add your GitHub profile URL here](https://github.com/jorlabor)
+- GitHub - [https://github.com/jorlabor](https://github.com/jorlabor)
