@@ -122,6 +122,12 @@ td {
   padding: var(--spacing-200) var(--spacing-400);
 }
 
+th {
+  padding: var(--spacing-200) var(--spacing-400);
+  text-align: left;
+  font-weight: 400;
+}
+
 tr:not(:last-child) {
   border-bottom: 1px solid var(--stone-150);
 }
@@ -134,7 +140,7 @@ tr:not(:last-child) {
 
 ::marker {
   color: var(--brown-800);
-  font-weight: 800;
+  font-weight: 700;
 }
 
 .attribution {
@@ -152,12 +158,15 @@ main {
   background-color: var(--white);
 }
 
+.content-padding {
+  padding: 0 var(--spacing-400);
+}
+
 .title-container {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-300);
   margin-top: var(--spacing-500);
-  padding: 0 var(--spacing-400);
 }
 
 /* Sections */
@@ -168,6 +177,7 @@ main {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-200);
+  border-radius: 12px;
 }
 
 .preparation-section__title {
@@ -177,15 +187,10 @@ main {
 }
 
 .ingredients-section {
-  padding: 0 var(--spacing-400);
   margin-bottom: var(--spacing-400);
   display: flex;
   flex-direction: column;
   gap: var(--spacing-300);
-}
-
-.instructions-section {
-  padding: 0 var(--spacing-400);
 }
 
 .instructions-section__content {
@@ -211,6 +216,7 @@ main {
     max-width: 616px;
     margin: var(--spacing-1600) auto;
     border-radius: 24px;
+    overflow: hidden;
   }
 
   h1 {
