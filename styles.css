@@ -60,14 +60,13 @@
 body {
   margin: 0;
   font-family: var(--font-outfit);
-  font-size: 16px;
+  font-size: 1rem;
   color: var(--stone-600);
   background-color: var(--stone-100);
 }
 
 img {
   max-width: 100%;
-  width: 100%;
 }
 
 h1,

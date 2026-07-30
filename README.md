@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here](https://www.frontendmentor.io/solutions)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-using-semantic-html-and-bem-css-E1UvuxGLs1](https://www.frontendmentor.io/solutions)
+- Live Site URL: [https://recipe-page-labor.netlify.app/](https://your-live-site-url.com)
 
 ## My process
 
